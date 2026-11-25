@@ -18,7 +18,6 @@ I'm a Software Engineering student at Universidad
 Tecnológica del Perú (UTP), passionate about backend
 development, databases, and software architecture.
 
-- 🎓 Currently in my 4th semester.
 - 🏆 Ranked in the top 10% of my academic program.
 - 💻 Building REST APIs and backend applications.
 - 🌱 Currently learning NestJS, TypeScript and Docker.
